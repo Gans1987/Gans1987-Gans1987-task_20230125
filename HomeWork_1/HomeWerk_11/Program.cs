@@ -10,4 +10,6 @@ static double Power(double a, int b)
 }
 
 Console.WriteLine(Power(3, 5));
-Console.ReadKey();
+double a = double.Parse(Console.ReadLine());
+int b = int.Parse(Console.ReadLine());
+Console.WriteLine(Power(a, b));
