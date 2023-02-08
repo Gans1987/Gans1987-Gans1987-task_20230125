@@ -6,7 +6,7 @@
 Console.Write("Введите число N: ");
 int numberN = Convert.ToInt32(Console.ReadLine());
 
-int SumNumber(int numberN)
+
 {
     int counter = Convert.ToString(numberN).Length;
     int advance = 0;
