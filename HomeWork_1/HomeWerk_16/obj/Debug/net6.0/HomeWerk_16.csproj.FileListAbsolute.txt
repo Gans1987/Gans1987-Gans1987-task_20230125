@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\git_Work\HomeWork_1\HomeWerk_16\bin\Debug\net6.0\HomeWerk_16.exe
+C:\Users\User\Desktop\git_Work\HomeWork_1\HomeWerk_16\bin\Debug\net6.0\HomeWerk_16.deps.json
+C:\Users\User\Desktop\git_Work\HomeWork_1\HomeWerk_16\bin\Debug\net6.0\HomeWerk_16.runtimeconfig.json
+C:\Users\User\Desktop\git_Work\HomeWork_1\HomeWerk_16\bin\Debug\net6.0\HomeWerk_16.dll
+C:\Users\User\Desktop\git_Work\HomeWork_1\HomeWerk_16\bin\Debug\net6.0\HomeWerk_16.pdb
+C:\Users\User\Desktop\git_Work\HomeWork_1\HomeWerk_16\obj\Debug\net6.0\HomeWerk_16.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\git_Work\HomeWork_1\HomeWerk_16\obj\Debug\net6.0\HomeWerk_16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\git_Work\HomeWork_1\HomeWerk_16\obj\Debug\net6.0\HomeWerk_16.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\git_Work\HomeWork_1\HomeWerk_16\obj\Debug\net6.0\HomeWerk_16.AssemblyInfo.cs
+C:\Users\User\Desktop\git_Work\HomeWork_1\HomeWerk_16\obj\Debug\net6.0\HomeWerk_16.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\git_Work\HomeWork_1\HomeWerk_16\obj\Debug\net6.0\HomeWerk_16.dll
+C:\Users\User\Desktop\git_Work\HomeWork_1\HomeWerk_16\obj\Debug\net6.0\refint\HomeWerk_16.dll
+C:\Users\User\Desktop\git_Work\HomeWork_1\HomeWerk_16\obj\Debug\net6.0\HomeWerk_16.pdb
+C:\Users\User\Desktop\git_Work\HomeWork_1\HomeWerk_16\obj\Debug\net6.0\HomeWerk_16.genruntimeconfig.cache
+C:\Users\User\Desktop\git_Work\HomeWork_1\HomeWerk_16\obj\Debug\net6.0\ref\HomeWerk_16.dll
